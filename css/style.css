@@ -5,11 +5,19 @@ h1{
     font-size: xx-large;
     background-color: aqua;
 }
-
+/*
 h2 {
     font-family: 'droid sans', 'arial', sans-serif;
     font-style: italic;
     font-size: x-large;
+    background-color: lightcoral
+
+} */
+
+h2 {
+    font-family: 'roboto', 'arial', sans-serif;
+    font-size: medium;
+    background-color: lightcoral
 
 }
 
@@ -17,4 +25,15 @@ body {
     font-family: 'droid sans', 'arial', sans-serif;
     font-size: medium;
     background-color: #f0f0f0;
+    border: 1px solid #000;
+}
+
+p {
+    border: 3px solid #000;
+    border-color: violet;
+}
+
+div {
+    border: 3px solid #000;
+    border-color: purple;
 }
