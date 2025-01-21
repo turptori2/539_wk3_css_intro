@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+    background-color: yellow;
+    font-family: 'times new roman', 'impact', sans-serif;
+    font-size: xx-large;
+    background-color: aqua;
+}
+
+h2 {
+    font-family: 'droid sans', 'arial', sans-serif;
+    font-style: italic;
+    font-size: x-large;
+
+}
+
+body {
+    font-family: 'droid sans', 'arial', sans-serif;
+    font-size: medium;
+    background-color: #f0f0f0;
+}
